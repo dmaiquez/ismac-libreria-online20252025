@@ -1,4 +1,6 @@
-import com.distribuida.entities.Cliente;
+package com.distribuida.model;
+
+import com.distribuida.model.Cliente;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 

@@ -1,4 +1,4 @@
-package com.distribuida.libreria_spring;
+package com.distribuida;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
